@@ -1,7 +1,7 @@
 # Open Fashion App
 
 Open Fashion App is a user-friendly React Native application designed to provide a smooth e-commerce experience. With Open Fashion App, you can browse through products, view detailed information, and manage your shopping cart effortlessly. The app fetches product data from an external API and uses local storage to keep your cart items saved.
-s
+
 ## Features
 **HomeScreen**: Browse a list of products fetched from an external API.
 **ProductDetailScreen**: Get detailed information about a selected product.
